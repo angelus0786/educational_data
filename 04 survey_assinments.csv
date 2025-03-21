@@ -1,0 +1,298 @@
+userId,assignments,grades,tareas,statuses,idItem,item,course,nameItem,value
+761,NULL,NULL,NULL,NULL,81,81,75,"Selecciona la carrera a la cual perteneces.",1
+761,NULL,NULL,NULL,NULL,82,82,75,"Selecciona el semestre en el que te encuentras",5
+761,NULL,NULL,NULL,NULL,83,83,75,"¿Con qué género te identificas más?",1
+761,NULL,NULL,NULL,NULL,84,84,75,"¿En que modalidad te encuentras inscrito?",2
+761,NULL,NULL,NULL,NULL,85,85,75,"¿Cuál es tu edad actual? ",2
+761,NULL,NULL,NULL,NULL,86,86,75,"¿Cuál es tu estado civil?",1
+761,NULL,NULL,NULL,NULL,87,87,75,"¿Cuál es tu situación laboral actual?",2
+761,NULL,NULL,NULL,NULL,88,88,75,"¿Cuál es el máximo grado de estudios del Padre?",3
+761,NULL,NULL,NULL,NULL,89,89,75,"¿Cuál es el máximo estudio de la madre?",3
+761,NULL,NULL,NULL,NULL,90,90,75,"¿Cómo es tu relación con tus amigos(as)?",3
+761,NULL,NULL,NULL,NULL,91,91,75,"¿Tienes pareja?",1
+762,1856,90.00000,"Actividad 8. Investigación 505B","new, submitted",81,81,75,"Selecciona la carrera a la cual perteneces.",1
+762,1856,90.00000,"Actividad 8. Investigación 505B","new, submitted",82,82,75,"Selecciona el semestre en el que te encuentras",5
+762,1856,90.00000,"Actividad 8. Investigación 505B","new, submitted",83,83,75,"¿Con qué género te identificas más?",2
+762,1856,90.00000,"Actividad 8. Investigación 505B","new, submitted",84,84,75,"¿En que modalidad te encuentras inscrito?",1
+762,1856,90.00000,"Actividad 8. Investigación 505B","new, submitted",85,85,75,"¿Cuál es tu edad actual? ",3
+762,1856,90.00000,"Actividad 8. Investigación 505B","new, submitted",86,86,75,"¿Cuál es tu estado civil?",1
+762,1856,90.00000,"Actividad 8. Investigación 505B","new, submitted",87,87,75,"¿Cuál es tu situación laboral actual?",2
+762,1856,90.00000,"Actividad 8. Investigación 505B","new, submitted",88,88,75,"¿Cuál es el máximo grado de estudios del Padre?",2
+762,1856,90.00000,"Actividad 8. Investigación 505B","new, submitted",89,89,75,"¿Cuál es el máximo estudio de la madre?",2
+762,1856,90.00000,"Actividad 8. Investigación 505B","new, submitted",90,90,75,"¿Cómo es tu relación con tus amigos(as)?",1
+762,1856,90.00000,"Actividad 8. Investigación 505B","new, submitted",91,91,75,"¿Tienes pareja?",1
+767,1721,100.00000,"Actividad 4. Videos 505B","new, submitted",81,81,75,"Selecciona la carrera a la cual perteneces.",1
+767,1721,100.00000,"Actividad 4. Videos 505B","new, submitted",82,82,75,"Selecciona el semestre en el que te encuentras",5
+767,1721,100.00000,"Actividad 4. Videos 505B","new, submitted",83,83,75,"¿Con qué género te identificas más?",2
+767,1721,100.00000,"Actividad 4. Videos 505B","new, submitted",84,84,75,"¿En que modalidad te encuentras inscrito?",2
+767,1721,100.00000,"Actividad 4. Videos 505B","new, submitted",85,85,75,"¿Cuál es tu edad actual? ",3
+767,1721,100.00000,"Actividad 4. Videos 505B","new, submitted",86,86,75,"¿Cuál es tu estado civil?",1
+767,1721,100.00000,"Actividad 4. Videos 505B","new, submitted",87,87,75,"¿Cuál es tu situación laboral actual?",2
+767,1721,100.00000,"Actividad 4. Videos 505B","new, submitted",88,88,75,"¿Cuál es el máximo grado de estudios del Padre?",1
+767,1721,100.00000,"Actividad 4. Videos 505B","new, submitted",89,89,75,"¿Cuál es el máximo estudio de la madre?",2
+767,1721,100.00000,"Actividad 4. Videos 505B","new, submitted",90,90,75,"¿Cómo es tu relación con tus amigos(as)?",2
+767,1721,100.00000,"Actividad 4. Videos 505B","new, submitted",91,91,75,"¿Tienes pareja?",1
+774,1751,80.00000,"Evaluación unidad 1 505B","new, submitted",81,81,75,"Selecciona la carrera a la cual perteneces.",1
+774,1751,80.00000,"Evaluación unidad 1 505B","new, submitted",82,82,75,"Selecciona el semestre en el que te encuentras",5
+774,1751,80.00000,"Evaluación unidad 1 505B","new, submitted",83,83,75,"¿Con qué género te identificas más?",1
+774,1751,80.00000,"Evaluación unidad 1 505B","new, submitted",84,84,75,"¿En que modalidad te encuentras inscrito?",2
+774,1751,80.00000,"Evaluación unidad 1 505B","new, submitted",85,85,75,"¿Cuál es tu edad actual? ",2
+774,1751,80.00000,"Evaluación unidad 1 505B","new, submitted",86,86,75,"¿Cuál es tu estado civil?",1
+774,1751,80.00000,"Evaluación unidad 1 505B","new, submitted",87,87,75,"¿Cuál es tu situación laboral actual?",2
+774,1751,80.00000,"Evaluación unidad 1 505B","new, submitted",88,88,75,"¿Cuál es el máximo grado de estudios del Padre?",2
+774,1751,80.00000,"Evaluación unidad 1 505B","new, submitted",89,89,75,"¿Cuál es el máximo estudio de la madre?",2
+774,1751,80.00000,"Evaluación unidad 1 505B","new, submitted",90,90,75,"¿Cómo es tu relación con tus amigos(as)?",3
+774,1751,80.00000,"Evaluación unidad 1 505B","new, submitted",91,91,75,"¿Tienes pareja?",2
+787,"1711, 1720",100.00000,"Actividad 3. Resumen videos 505B, Portafolio de evidencias 505B","new, submitted",81,81,75,"Selecciona la carrera a la cual perteneces.",1
+787,"1711, 1720",100.00000,"Actividad 3. Resumen videos 505B, Portafolio de evidencias 505B","new, submitted",82,82,75,"Selecciona el semestre en el que te encuentras",5
+787,"1711, 1720",100.00000,"Actividad 3. Resumen videos 505B, Portafolio de evidencias 505B","new, submitted",83,83,75,"¿Con qué género te identificas más?",2
+787,"1711, 1720",100.00000,"Actividad 3. Resumen videos 505B, Portafolio de evidencias 505B","new, submitted",84,84,75,"¿En que modalidad te encuentras inscrito?",2
+787,"1711, 1720",100.00000,"Actividad 3. Resumen videos 505B, Portafolio de evidencias 505B","new, submitted",85,85,75,"¿Cuál es tu edad actual? ",3
+787,"1711, 1720",100.00000,"Actividad 3. Resumen videos 505B, Portafolio de evidencias 505B","new, submitted",86,86,75,"¿Cuál es tu estado civil?",1
+787,"1711, 1720",100.00000,"Actividad 3. Resumen videos 505B, Portafolio de evidencias 505B","new, submitted",87,87,75,"¿Cuál es tu situación laboral actual?",4
+787,"1711, 1720",100.00000,"Actividad 3. Resumen videos 505B, Portafolio de evidencias 505B","new, submitted",88,88,75,"¿Cuál es el máximo grado de estudios del Padre?",1
+787,"1711, 1720",100.00000,"Actividad 3. Resumen videos 505B, Portafolio de evidencias 505B","new, submitted",89,89,75,"¿Cuál es el máximo estudio de la madre?",1
+787,"1711, 1720",100.00000,"Actividad 3. Resumen videos 505B, Portafolio de evidencias 505B","new, submitted",90,90,75,"¿Cómo es tu relación con tus amigos(as)?",2
+787,"1711, 1720",100.00000,"Actividad 3. Resumen videos 505B, Portafolio de evidencias 505B","new, submitted",91,91,75,"¿Tienes pareja?",2
+788,1902,100.00000,"Evaluación unidad 2 505B","new, submitted",81,81,75,"Selecciona la carrera a la cual perteneces.",1
+788,1902,100.00000,"Evaluación unidad 2 505B","new, submitted",82,82,75,"Selecciona el semestre en el que te encuentras",5
+788,1902,100.00000,"Evaluación unidad 2 505B","new, submitted",83,83,75,"¿Con qué género te identificas más?",2
+788,1902,100.00000,"Evaluación unidad 2 505B","new, submitted",84,84,75,"¿En que modalidad te encuentras inscrito?",2
+788,1902,100.00000,"Evaluación unidad 2 505B","new, submitted",85,85,75,"¿Cuál es tu edad actual? ",1
+788,1902,100.00000,"Evaluación unidad 2 505B","new, submitted",86,86,75,"¿Cuál es tu estado civil?",1
+788,1902,100.00000,"Evaluación unidad 2 505B","new, submitted",87,87,75,"¿Cuál es tu situación laboral actual?",1
+788,1902,100.00000,"Evaluación unidad 2 505B","new, submitted",88,88,75,"¿Cuál es el máximo grado de estudios del Padre?",2
+788,1902,100.00000,"Evaluación unidad 2 505B","new, submitted",89,89,75,"¿Cuál es el máximo estudio de la madre?",2
+788,1902,100.00000,"Evaluación unidad 2 505B","new, submitted",90,90,75,"¿Cómo es tu relación con tus amigos(as)?",3
+788,1902,100.00000,"Evaluación unidad 2 505B","new, submitted",91,91,75,"¿Tienes pareja?",1
+795,NULL,NULL,NULL,NULL,81,81,75,"Selecciona la carrera a la cual perteneces.",1
+795,NULL,NULL,NULL,NULL,82,82,75,"Selecciona el semestre en el que te encuentras",5
+795,NULL,NULL,NULL,NULL,83,83,75,"¿Con qué género te identificas más?",1
+795,NULL,NULL,NULL,NULL,84,84,75,"¿En que modalidad te encuentras inscrito?",2
+795,NULL,NULL,NULL,NULL,85,85,75,"¿Cuál es tu edad actual? ",3
+795,NULL,NULL,NULL,NULL,86,86,75,"¿Cuál es tu estado civil?",1
+795,NULL,NULL,NULL,NULL,87,87,75,"¿Cuál es tu situación laboral actual?",2
+795,NULL,NULL,NULL,NULL,88,88,75,"¿Cuál es el máximo grado de estudios del Padre?",1
+795,NULL,NULL,NULL,NULL,89,89,75,"¿Cuál es el máximo estudio de la madre?",1
+795,NULL,NULL,NULL,NULL,90,90,75,"¿Cómo es tu relación con tus amigos(as)?",2
+795,NULL,NULL,NULL,NULL,91,91,75,"¿Tienes pareja?",2
+1037,NULL,NULL,NULL,NULL,48,48,118,"Selecciona la carrera a la cual perteneces.",1
+1037,NULL,NULL,NULL,NULL,49,49,118,"Selecciona el semestre en el que te encuentras",3
+1037,NULL,NULL,NULL,NULL,50,50,118,"¿Con qué género te identificas más?",1
+1037,NULL,NULL,NULL,NULL,51,51,118,"¿En que modalidad te encuentras inscrito?",2
+1037,NULL,NULL,NULL,NULL,52,52,118,"¿Cuál es tu edad actual? ",1
+1037,NULL,NULL,NULL,NULL,53,53,118,"¿Cuál es tu estado civil?",1
+1037,NULL,NULL,NULL,NULL,54,54,118,"¿Cuál es tu situación laboral actual?",5
+1037,NULL,NULL,NULL,NULL,55,55,118,"¿Cuál es el máximo grado de estudios del Padre?",3
+1037,NULL,NULL,NULL,NULL,56,56,118,"¿Cuál es el máximo estudio de la madre?",3
+1037,NULL,NULL,NULL,NULL,57,57,118,"¿Cómo es tu relación con tus amigos(as)?",2
+1037,NULL,NULL,NULL,NULL,58,58,118,"¿Tienes pareja?",2
+1050,NULL,NULL,NULL,NULL,48,48,118,"Selecciona la carrera a la cual perteneces.",1
+1050,NULL,NULL,NULL,NULL,49,49,118,"Selecciona el semestre en el que te encuentras",3
+1050,NULL,NULL,NULL,NULL,50,50,118,"¿Con qué género te identificas más?",1
+1050,NULL,NULL,NULL,NULL,51,51,118,"¿En que modalidad te encuentras inscrito?",2
+1050,NULL,NULL,NULL,NULL,52,52,118,"¿Cuál es tu edad actual? ",1
+1050,NULL,NULL,NULL,NULL,53,53,118,"¿Cuál es tu estado civil?",1
+1050,NULL,NULL,NULL,NULL,54,54,118,"¿Cuál es tu situación laboral actual?",2
+1050,NULL,NULL,NULL,NULL,55,55,118,"¿Cuál es el máximo grado de estudios del Padre?",2
+1050,NULL,NULL,NULL,NULL,56,56,118,"¿Cuál es el máximo estudio de la madre?",2
+1050,NULL,NULL,NULL,NULL,57,57,118,"¿Cómo es tu relación con tus amigos(as)?",3
+1050,NULL,NULL,NULL,NULL,58,58,118,"¿Tienes pareja?",1
+1052,NULL,NULL,NULL,NULL,48,48,118,"Selecciona la carrera a la cual perteneces.",1
+1052,NULL,NULL,NULL,NULL,49,49,118,"Selecciona el semestre en el que te encuentras",3
+1052,NULL,NULL,NULL,NULL,50,50,118,"¿Con qué género te identificas más?",3
+1052,NULL,NULL,NULL,NULL,51,51,118,"¿En que modalidad te encuentras inscrito?",2
+1052,NULL,NULL,NULL,NULL,52,52,118,"¿Cuál es tu edad actual? ",4
+1052,NULL,NULL,NULL,NULL,53,53,118,"¿Cuál es tu estado civil?",1
+1052,NULL,NULL,NULL,NULL,54,54,118,"¿Cuál es tu situación laboral actual?",2
+1052,NULL,NULL,NULL,NULL,55,55,118,"¿Cuál es el máximo grado de estudios del Padre?",1
+1052,NULL,NULL,NULL,NULL,56,56,118,"¿Cuál es el máximo estudio de la madre?",1
+1052,NULL,NULL,NULL,NULL,57,57,118,"¿Cómo es tu relación con tus amigos(as)?",3
+1052,NULL,NULL,NULL,NULL,58,58,118,"¿Tienes pareja?",2
+1350,NULL,NULL,NULL,NULL,48,48,118,"Selecciona la carrera a la cual perteneces.",1
+1350,NULL,NULL,NULL,NULL,49,49,118,"Selecciona el semestre en el que te encuentras",3
+1350,NULL,NULL,NULL,NULL,50,50,118,"¿Con qué género te identificas más?",2
+1350,NULL,NULL,NULL,NULL,51,51,118,"¿En que modalidad te encuentras inscrito?",2
+1350,NULL,NULL,NULL,NULL,52,52,118,"¿Cuál es tu edad actual? ",1
+1350,NULL,NULL,NULL,NULL,53,53,118,"¿Cuál es tu estado civil?",1
+1350,NULL,NULL,NULL,NULL,54,54,118,"¿Cuál es tu situación laboral actual?",2
+1350,NULL,NULL,NULL,NULL,55,55,118,"¿Cuál es el máximo grado de estudios del Padre?",2
+1350,NULL,NULL,NULL,NULL,56,56,118,"¿Cuál es el máximo estudio de la madre?",2
+1350,NULL,NULL,NULL,NULL,57,57,118,"¿Cómo es tu relación con tus amigos(as)?",2
+1350,NULL,NULL,NULL,NULL,58,58,118,"¿Tienes pareja?",2
+1350,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1350,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",3
+1350,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",2
+1350,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1350,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",1
+1350,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1350,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",1
+1350,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",2
+1350,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",2
+1350,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",2
+1350,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1570,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1570,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1570,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",1
+1570,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1570,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",1
+1570,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1570,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",2
+1570,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",2
+1570,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",3
+1570,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",3
+1570,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1572,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1572,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1572,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",1
+1572,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1572,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",1
+1572,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1572,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",2
+1572,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",7
+1572,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",2
+1572,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",1
+1572,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1575,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1575,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1575,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",1
+1575,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1575,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",1
+1575,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1575,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",1
+1575,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",2
+1575,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",7
+1575,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",1
+1575,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1580,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1580,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1580,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",1
+1580,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1580,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",1
+1580,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1580,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",2
+1580,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",7
+1580,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",2
+1580,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",3
+1580,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1587,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1587,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1587,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",2
+1587,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1587,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",1
+1587,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1587,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",2
+1587,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",2
+1587,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",2
+1587,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",2
+1587,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1588,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1588,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1588,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",2
+1588,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",1
+1588,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",1
+1588,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1588,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",5
+1588,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",3
+1588,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",2
+1588,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",3
+1588,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1593,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1593,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1593,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",2
+1593,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",1
+1593,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",1
+1593,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1593,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",1
+1593,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",1
+1593,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",1
+1593,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",3
+1593,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",1
+1594,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1594,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1594,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",1
+1594,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1594,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",1
+1594,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1594,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",5
+1594,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",2
+1594,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",3
+1594,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",3
+1594,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1595,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1595,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1595,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",1
+1595,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1595,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",4
+1595,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1595,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",2
+1595,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",4
+1595,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",5
+1595,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",1
+1595,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",1
+1605,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1605,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1605,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",2
+1605,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1605,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",2
+1605,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1605,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",2
+1605,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",1
+1605,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",1
+1605,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",2
+1605,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",1
+1654,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",3
+1654,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1654,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",2
+1654,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",1
+1654,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",1
+1654,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1654,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",5
+1654,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",2
+1654,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",2
+1654,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",1
+1654,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1745,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1745,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1745,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",1
+1745,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1745,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",2
+1745,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1745,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",5
+1745,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",2
+1745,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",1
+1745,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",1
+1745,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1756,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1756,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1756,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",1
+1756,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1756,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",2
+1756,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",1
+1756,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",2
+1756,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",2
+1756,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",2
+1756,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",3
+1756,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1757,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1757,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1757,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",1
+1757,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1757,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",3
+1757,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",2
+1757,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",5
+1757,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",7
+1757,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",2
+1757,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",3
+1757,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",2
+1789,NULL,NULL,NULL,NULL,59,59,132,"Selecciona la carrera a la cual perteneces.",1
+1789,NULL,NULL,NULL,NULL,60,60,132,"Selecciona el semestre en el que te encuentras",1
+1789,NULL,NULL,NULL,NULL,61,61,132,"¿Con qué género te identificas más?",1
+1789,NULL,NULL,NULL,NULL,62,62,132,"¿En que modalidad te encuentras inscrito?",2
+1789,NULL,NULL,NULL,NULL,63,63,132,"¿Cuál es tu edad actual? ",6
+1789,NULL,NULL,NULL,NULL,64,64,132,"¿Cuál es tu estado civil?",2
+1789,NULL,NULL,NULL,NULL,65,65,132,"¿Cuál es tu situación laboral actual?",2
+1789,NULL,NULL,NULL,NULL,66,66,132,"¿Cuál es el máximo grado de estudios del Padre?",2
+1789,NULL,NULL,NULL,NULL,67,67,132,"¿Cuál es el máximo estudio de la madre?",4
+1789,NULL,NULL,NULL,NULL,68,68,132,"¿Cómo es tu relación con tus amigos(as)?",2
+1789,NULL,NULL,NULL,NULL,69,69,132,"¿Tienes pareja?",1
